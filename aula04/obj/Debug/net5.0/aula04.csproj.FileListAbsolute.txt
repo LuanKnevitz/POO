@@ -1,0 +1,16 @@
+C:\Users\Luan Knevitz\Desktop\POO\aula04\obj\Debug\net5.0\aula04.csproj.AssemblyReference.cache
+C:\Users\Luan Knevitz\Desktop\POO\aula04\obj\Debug\net5.0\aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan Knevitz\Desktop\POO\aula04\obj\Debug\net5.0\aula04.AssemblyInfoInputs.cache
+C:\Users\Luan Knevitz\Desktop\POO\aula04\obj\Debug\net5.0\aula04.AssemblyInfo.cs
+C:\Users\Luan Knevitz\Desktop\POO\aula04\obj\Debug\net5.0\aula04.csproj.CoreCompileInputs.cache
+C:\Users\Luan Knevitz\Desktop\POO\aula04\bin\Debug\net5.0\aula04.exe
+C:\Users\Luan Knevitz\Desktop\POO\aula04\bin\Debug\net5.0\aula04.deps.json
+C:\Users\Luan Knevitz\Desktop\POO\aula04\bin\Debug\net5.0\aula04.runtimeconfig.json
+C:\Users\Luan Knevitz\Desktop\POO\aula04\bin\Debug\net5.0\aula04.runtimeconfig.dev.json
+C:\Users\Luan Knevitz\Desktop\POO\aula04\bin\Debug\net5.0\aula04.dll
+C:\Users\Luan Knevitz\Desktop\POO\aula04\bin\Debug\net5.0\ref\aula04.dll
+C:\Users\Luan Knevitz\Desktop\POO\aula04\bin\Debug\net5.0\aula04.pdb
+C:\Users\Luan Knevitz\Desktop\POO\aula04\obj\Debug\net5.0\aula04.dll
+C:\Users\Luan Knevitz\Desktop\POO\aula04\obj\Debug\net5.0\ref\aula04.dll
+C:\Users\Luan Knevitz\Desktop\POO\aula04\obj\Debug\net5.0\aula04.pdb
+C:\Users\Luan Knevitz\Desktop\POO\aula04\obj\Debug\net5.0\aula04.genruntimeconfig.cache
