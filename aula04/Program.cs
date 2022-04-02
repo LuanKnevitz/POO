@@ -15,9 +15,9 @@ namespace aula04
             agenda.addContato(diogo);
             agenda.addContato(ines);
             agenda.addContato(lucas);
-            agenda.removeContact("Lucas");
-            agenda.updateContact("luan", "luan novo", "51 999994332");
-            agenda.seeAllContacts();
+            Console.WriteLine(agenda.getByName("luan").toString());
+            
+            
         }
     }
 
